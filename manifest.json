@@ -3,7 +3,7 @@
   "name": "Compython",
   "version": "1.0.1",
   "minAppVersion": "0.15.0",
-  "description": "AI chat assistant for Obsidian with vault awareness, semantic search, one-click edits, and native Python execution.",
+  "description": "AI chat assistant with vault awareness, semantic search, one-click edits, and native Python execution.",
   "author": "Dison Franco",
   "authorUrl": "https://github.com/Stylehz",
   "fundingUrl": "https://buymeacoffee.com/kevin.on",
